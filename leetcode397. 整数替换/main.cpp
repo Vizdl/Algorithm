@@ -7,7 +7,7 @@
 n 变为 1 所需的最小替换次数是多少？
 */
 
-class Solution {
+class Solution { 
 public:
     /*
     这个题目实际上要做的就是 消除 n 在二进制表达中的 1
